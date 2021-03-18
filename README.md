@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jeffrey. 👋
 
-<!--
-**jeffreydivi/jeffreydivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Florida-grown software developer passionate about information security.
 
-Here are some ideas to get you started:
+[🌐 Website](https://divi.sh) ⁕ [👨‍💼 LinkedIn](https://linkedin.com/in/jeffreydivi) ⁕ [🐦 Twitter](https://twitter.com/JeffreyCodes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+
+- 🐂 **[KnightRider](https://knightrider.tech)** is a winning submission of the Hackabull 2021 hackathon. Tilt your phone to play and reach the high score!
+- ☀ **[SunshineCTF 2020](https://github.com/SunshineCTF/SunshineCTF-2020-Public/)** is a capture-the-flag compeition I submitted challenges for and created a custom front-end from the ground up.
+- 🗳 **[VoteyMcVote.space](https://devpost.com/software/voteymcvoteface/)** is a polling tool that conducts surveys in multiple different voting systems.
+- 🏎 **[Pinstripe](https://github.com/jeffreydivi/Pinstripe/)** is a Web API to generate custom images for your classes.
+
+**...and more!** I have also developed several projects under the [𝘚𝘩𝘶𝘨𝘢](https://o.divi.sh/shuga_github) pseudonym.
