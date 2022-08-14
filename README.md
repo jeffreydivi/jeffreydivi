@@ -1,6 +1,6 @@
 ### Hi, I'm Jeffrey. 👋
 
-**I'm a Florida-grown software developer and security engineer in training.** I also help run [Hack@UCF](https://hackucf.org) and interned at [Blackstone](https://www.blackstone.com/blackstone-innovations-investments/).
+**I'm a Florida-grown software developer and security engineer in training.** I also help run [Hack@UCF](https://hackucf.org) and interned at [Amazon](https://www.aboutamazon.com/) and [Blackstone](https://www.blackstone.com/blackstone-innovations-investments/).
 
 [🌐 Website](https://divi.sh) ⁕ [👨‍💼 LinkedIn](https://linkedin.com/in/jeffreydivi) ⁕ [🐦 Twitter](https://twitter.com/JeffreyCodes)
 
