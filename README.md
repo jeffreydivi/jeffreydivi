@@ -1,8 +1,8 @@
 ### Hi, I'm Jeffrey. 👋
 
-**I'm a Florida-grown software developer and security engineer in training.** I also help run [Hack@UCF](https://hackucf.org) and interned at [Amazon](https://www.aboutamazon.com/) and [Blackstone](https://www.blackstone.com/blackstone-innovations-investments/).
+**I'm a Florida-grown security engineer and software developer.** I currently work at [Amazon](https://www.aboutamazon.com/) as a security engineer. I also help run [Hack@UCF](https://hackucf.org) and previously interned at [Blackstone](https://www.blackstone.com/blackstone-innovations-investments/).
 
-[🌐 Website](https://divi.sh) ⁕ [👨‍💼 LinkedIn](https://linkedin.com/in/jeffreydivi) ⁕ [🐦 Twitter](https://twitter.com/JeffreyCodes)
+[🌐 Website](https://divi.sh) ⁕ [👨‍💼 LinkedIn](https://linkedin.com/in/jeffreydivi) ⁕ [🐦 X (f.k.a. Twitter)](https://twitter.com/JeffreyCodes)
 
 #### Projects
 
